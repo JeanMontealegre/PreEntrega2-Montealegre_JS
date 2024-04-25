@@ -1,0 +1,41 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+h1{
+    margin: 1rem;
+}
+.categoriaA{
+    margin: 20px;
+    padding: 10px;
+    background-color: green;
+    border: 0.2rem solid black;
+}
+.categoriaB {
+    margin: 20px;
+    padding: 10px;
+    background-color: yellow;
+    border: 0.2rem solid black;
+}
+.categoriaC {
+    margin: 20px;
+    padding: 10px;
+    background-color: tomato;
+    border: 0.2rem solid black;
+}
+p{
+    margin: 0.5rem;
+}
+.importante{
+    background-color: whitesmoke;
+    font-weight: bolder;
+    padding: 0.1rem;
+}
